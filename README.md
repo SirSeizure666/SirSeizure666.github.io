@@ -1,9 +1,9 @@
 404 means no temp currently attached (dm one to me and ill add or update it) or i broke smthn :)
 ## SirSeizures temp :)
-[SirSeizureMainArt](https://sirseizure666.github.io/SirSeizureMainArt) 
+[SirSeizureMainArt (No Temp this canbas)](https://sirseizure666.github.io/SirSeizureMainArt) 
 
 ## Frends temps
-[PebbleMainArt(eeds Update)](https://sirseizure666.github.io/PebbleMainArt) 
+[PebbleMainArt(Needs Update)](https://sirseizure666.github.io/PebbleMainArt) 
 
 [ZinMainArt](https://sirseizure666.github.io/ZinMainArt) 
 

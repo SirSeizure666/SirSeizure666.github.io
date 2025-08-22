@@ -16,3 +16,8 @@
 [OnionMainArt](https://sirseizure666.github.io/OnionMainArt) 
 
 [SohiMainArt (Needs Update)](https://sirseizure666.github.io/SohiMainArt) 
+
+[ManeArt](https://thewafflelord37.github.io/ManePxls-Template-Redirects/art.html) 
+
+[ManeArt + BG](https://thewafflelord37.github.io/ManePxls-Template-Redirects/full.html)
+

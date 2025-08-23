@@ -19,10 +19,8 @@ currently fixing issue where if no temp is inputed for a user it defaults to the
 [Hoyo](https://sirseizure666.github.io/Hoyo)
 
 ## User temps
-[PebbleMainArt(No temp?)](https://sirseizure666.github.io/PebbleMainArt) 
 
 [ZinMainArt](https://sirseizure666.github.io/ZinMainArt) 
 
 [NikMainArt ](https://sirseizure666.github.io/NikMainArt) 
 
-[SirSeizureMainArt (No Temp this canbas)](https://sirseizure666.github.io/SirSeizureMainArt) 

@@ -6,31 +6,31 @@ huge thanks to Notkaz for making the original script and to WaffleLord for all t
 
 currently fixing issue where if no temp is inputed for a user it defaults to the last valid one on that file. easy fix but dont hav time this second so will do later
 ## Faction temps
-[BrownPixelstuck](https://sirseizure666.github.io/BrownPixelstuck) 
+[BrownPixelstuck](https://sirseizure666.github.io/Factions/BrownPixelstuck) 
 
 [ManeArt](https://thewafflelord37.github.io/ManePxls-Template-Redirects/art.html) 
 
 [ManeArt + BG](https://thewafflelord37.github.io/ManePxls-Template-Redirects/full.html)
 
-[Ember Empire](https://sirseizure666.github.io/EmberEmpire)
+[Ember Empire](https://sirseizure666.github.io/Factions/EmberEmpire)
 
-[Darkhood](https://sirseizure666.github.io/Darkhood)
+[Darkhood](https://sirseizure666.github.io/Factions/Darkhood)
 
-[Hoyo](https://sirseizure666.github.io/Hoyo)
+[Hoyo](https://sirseizure666.github.io/Factions/Hoyo)
 
-[Pixelstuck](https://sirseizure666.github.io/Pixelstuck)
+[Pixelstuck](https://sirseizure666.github.io/Factions/Pixelstuck)
 
-[Happy New Year](https://sirseizure666.github.io/HNY)
+[Happy New Year](https://sirseizure666.github.io/Factions/HNY)
 
-[Green Lattice](https://sirseizure666.github.io/GL)
+[Green Lattice](https://sirseizure666.github.io/Factions/GL)
 
-[The Purple Empire](https://sirseizure666.github.io/TPE)
+[The Purple Empire](https://sirseizure666.github.io/Factions/TPE)
 
 ## User temps
 
-[Zinzamoure](https://sirseizure666.github.io/Zinzamoure) 
+[Zinzamoure](https://sirseizure666.github.io/Users/Zinzamoure) 
 
-[Mauz](https://sirseizure666.github.io/Mauz) 
+[Mauz](https://sirseizure666.github.io/Users/Mauz) 
 
 
 

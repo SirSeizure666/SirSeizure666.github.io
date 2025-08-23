@@ -18,6 +18,14 @@
                 {
                     "name": "Ember Empire",
                     "url": "https://sirseizure666.github.io/EmberEmpire"
+                },
+                {
+                    "name": "Darkhood",
+                    "url": "https://sirseizure666.github.io/Darkhood"
+                },
+                {
+                    "name": "Hoyo",
+                    "url": "https://sirseizure666.github.io/Hoyo"
                 }
                 
             ]
@@ -25,10 +33,7 @@
         {
             "title": "Users",
             "templates": [
-                {
-                    "name": "PebbleMainArt",
-                    "url": "https://sirseizure666.github.io/PebbleMainArt"
-                },
+               
                 {
                     "name": "ZinMainArt",
                     "url": "https://sirseizure666.github.io/ZinMainArt"
@@ -37,10 +42,6 @@
                 {
                     "name": "NikMainArt",
                     "url": "https://sirseizure666.github.io/NikMainArt"
-                },
-                {
-                    "name": "SirSeizureMainArt",
-                    "url": "https://sirseizure666.github.io/SirSeizureMainArt"
                 }
             
             ]

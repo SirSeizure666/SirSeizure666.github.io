@@ -22,6 +22,10 @@ currently fixing issue where if no temp is inputed for a user it defaults to the
 
 [Happy New Year](https://sirseizure666.github.io/HNY)
 
+[Green Lattice](https://sirseizure666.github.io/GL)
+
+[The Purple Empire](https://sirseizure666.github.io/TPE)
+
 ## User temps
 
 [ZinMainArt](https://sirseizure666.github.io/ZinMainArt) 

@@ -50,6 +50,10 @@
                 {
                     "name": "Furu",
                     "url": "https://sirseizure666.github.io/Factions/Furu"
+                },
+                {
+                    "name": "Slim Fiddle",
+                    "url": "https://sirseizure666.github.io/Factions/SlimFiddle"
                 }
                 
             ]
@@ -66,6 +70,11 @@
                 {
                     "name": "Mauz",
                     "url": "https://sirseizure666.github.io/Users/Mauz"
+                },
+               
+                {
+                    "name": "Distance",
+                    "url": "https://sirseizure666.github.io/Users/Distance"
                 }
             
             ]

@@ -20,7 +20,7 @@ currently fixing issue where if no temp is inputed for a user it defaults to the
 
 [Pixelstuck](https://sirseizure666.github.io/Pixelstuck)
 
-[HAppy New Year](https://sirseizure666.github.io/HNY)
+[Happy New Year](https://sirseizure666.github.io/HNY)
 
 ## User temps
 

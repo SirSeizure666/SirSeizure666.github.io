@@ -26,6 +26,10 @@ currently fixing issue where if no temp is inputed for a user it defaults to the
 
 [The Purple Empire](https://sirseizure666.github.io/Factions/TPE)
 
+[Lunes](https://sirseizure666.github.io/Factions/Lunes)
+
+[Furu](https://sirseizure666.github.io/Factions/Furu)
+
 ## User temps
 
 [Zinzamoure](https://sirseizure666.github.io/Users/Zinzamoure) 

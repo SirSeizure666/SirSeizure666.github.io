@@ -4,7 +4,7 @@ download the script to get all these temps in one easy tab on pxls website: [Pxl
 
 huge thanks to Notkaz for making the original script and to WaffleLord for all the help making this possible
 
-currently fixing issue where if no temp is inputed for a user it defaults to the last valid one on that file. easy fix but dont hav time this second so will do later
+currently no issues :D just need to add more temps and keep up to date (will attempt to implement methods to allow users to update templates on their own in the future via their own redirect links)
 ## Faction temps
 [BrownPixelstuck](https://sirseizure666.github.io/Factions/BrownPixelstuck) 
 

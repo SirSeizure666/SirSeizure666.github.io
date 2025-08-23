@@ -30,11 +30,12 @@ currently no issues :D just need to add more temps and keep up to date (will att
 
 [Furu](https://sirseizure666.github.io/Factions/Furu)
 
+[Slim Fiddle](https://sirseizure666.github.io/Factions/SlimFiddle)
+
 ## User temps
 
 [Zinzamoure](https://sirseizure666.github.io/Users/Zinzamoure) 
 
 [Mauz](https://sirseizure666.github.io/Users/Mauz) 
 
-
-
+[Distance](https://sirseizure666.github.io/Users/Distance) 

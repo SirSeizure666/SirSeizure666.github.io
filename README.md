@@ -12,6 +12,8 @@ currently fixing issue where if no temp is inputed for a user it defaults to the
 
 [ManeArt + BG](https://thewafflelord37.github.io/ManePxls-Template-Redirects/full.html)
 
+[Ember Empire](https://sirseizure666.github.io/EmberEmpire)
+
 ## User temps
 [PebbleMainArt(Needs Update)](https://sirseizure666.github.io/PebbleMainArt) 
 

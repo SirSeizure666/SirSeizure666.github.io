@@ -28,6 +28,9 @@ currently fixing issue where if no temp is inputed for a user it defaults to the
 
 ## User temps
 
-[ZinMainArt](https://sirseizure666.github.io/ZinMainArt) 
+[Zinzamoure](https://sirseizure666.github.io/Zinzamoure) 
+
+[Mauz](https://sirseizure666.github.io/Mauz) 
+
 
 
